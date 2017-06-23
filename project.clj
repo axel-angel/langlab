@@ -1,4 +1,4 @@
-(defproject langlab "1.4.0-SNAPSHOT"
+(defproject axel-angel/langlab "1.5.0-SNAPSHOT"
 
   ; GENERAL OPTIONS
 
